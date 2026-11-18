@@ -89,8 +89,8 @@ An independently developed backend project focused on library operations and aut
 
 I have also independently designed and developed:
 
-- **[FlyFlow](https://github.com/MateuszRuszczynski)** — a flight management system.
-- **[GymBro](https://github.com/MateuszRuszczynski)** — a strength-training tracking application.
+- **[FlyFlow](https://github.com/MateuszRuszczynski/flyflow-api)** — a flight management system.
+- **[GymBro](https://github.com/MateuszRuszczynski/gymbro)** — a strength-training tracking application.
 
 In addition, I contributed backend work to **Concert Town**, a team project. Across my project experience, I have implemented more than 50 REST API endpoints and worked on containerized environments, integrations, and automated testing.
 
@@ -106,18 +106,6 @@ I value both solid engineering and effective teamwork. My project experience inc
 - Investigating issues independently and communicating progress clearly.
 
 I have conducted more than 10 code reviews and have experience coordinating work as a Tech Lead.
-
-## 🎓 Education & Certifications
-
-- **B.Eng. in Computer Science** — Olsztyńska Szkoła Wyższa (2018–2021)
-- **IT Technician** — Zespół Szkół Zawodowych CKU (2008–2012)
-- **Python Developer** — Mate academy
-- **Skills of Tomorrow AI 3.0** — Google & SGH
-
-## 🌍 Languages
-
-- Polish — Native
-- English — B2
 
 ## 📫 Get in Touch
 
