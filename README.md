@@ -7,8 +7,6 @@
 I build backend applications and APIs with a focus on clean architecture, maintainability, and reliable integrations. I enjoy solving technical problems, improving code quality, and collaborating with developers to deliver useful software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mateusz-ruszczynski)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusz.ruszczynski@gmail.com)
-
 </div>
 
 ---
